@@ -11,20 +11,5 @@
     "draftAndPublish": true
   },
   "pluginOptions": {},
-  "attributes": {
-    "title": {
-      "type": "string",
-      "required": true
-    },
-    "slug": {
-      "type": "uid",
-      "targetField": "title"
-    },
-    "content": {
-      "type": "blocks"
-    },
-    "publishedAt": {
-      "type": "datetime"
-    }
-  }
+  "attributes": {}
 }
