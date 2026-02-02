@@ -12,14 +12,14 @@ Ensure you have the following installed:
 
 *   **Node.js**: `v20.0.0` or higher (Supported: `v20.x`, `v22.x`, `v24.x`).
     *   *Note: Current configuration also supports `v25.x`.*
-*   **npm**: `v6.0.0` or higher.
+*   **npm**: `v6.0.0` 
 
 ###  Installation 
 
 1.  **Clone the repository** (if you haven't already):
     ```bash
     git clone <your-repo-url>
-    cd my-project
+    cd 
     ```
 
 2.  **Install dependencies**:
