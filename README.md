@@ -2,7 +2,7 @@
 
 A local-only Strapi application configured for development with SQLite. This project is optimized for a lightweight and fast local development experience.
 
-## 🚀 Getting Started
+##  Getting Started
 
 Follow these instructions to get the project up and running on your local machine.
 
@@ -14,7 +14,7 @@ Ensure you have the following installed:
     *   *Note: Current configuration also supports `v25.x`.*
 *   **npm**: `v6.0.0` or higher.
 
-### 📥 Installation 
+###  Installation 
 
 1.  **Clone the repository** (if you haven't already):
     ```bash
@@ -27,7 +27,7 @@ Ensure you have the following installed:
     npm install
     ```
 
-### 📋 Assignment Steps Completed
+###  Assignment Steps Completed
 
 1.  **Repository Setup**: Project initialized and pushed to GitHub.
 2.  **Folder Structure**: Explored standard Strapi structure (`src`, `config`, `.env`).
@@ -35,7 +35,7 @@ Ensure you have the following installed:
 4.  **Admin Panel**: Verified access at `http://localhost:1337/admin`.
 5.  **Documentation**: This README documents all steps.
 
-### ⚙️ Configuration
+###  Configuration
 
 The application uses a `.env` file for configuration. A basic setup is already provided.
 
@@ -58,7 +58,7 @@ JWT_SECRET=...
 
 ---
 
-## 🏃‍♂️ Running the Application
+##  Running the Application
 
 ### Development Server
 Start the server in development mode with auto-reload enabled:
@@ -86,7 +86,7 @@ npm run start
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 *   `src/api` - Your API definitions (Content Types, Controllers, Services).
 *   `src/admin` - Admin panel customization.
@@ -94,7 +94,7 @@ npm run start
 *   `.tmp/` - Contains the local SQLite database (`data.db`).
 *   `public/` - Static assets.
 
-## 🛠 Troubleshooting
+##  Troubleshooting
 
 **"Unsupported engine" error**:
 If you see warnings about Node.js versions, ensure you are using a compatible version (e.g., `v20` LTS). We have relaxed strict engine checks in `package.json` to allow newer versions, but LTS is recommended for stability.
