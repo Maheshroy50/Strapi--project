@@ -1,0 +1,16 @@
+# Strapi
+.tmp/
+.cache/
+.strapi/
+dist/
+build/
+node_modules/
+.env
+package-lock.json
+yarn.lock
+
+# System
+.DS_Store
+
+# Media
+public/uploads/

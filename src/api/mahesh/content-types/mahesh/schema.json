@@ -1,0 +1,18 @@
+{
+  "kind": "collectionType",
+  "collectionName": "maheshes",
+  "info": {
+    "singularName": "mahesh",
+    "pluralName": "maheshes",
+    "displayName": "Mahesh Bhoopathi Rao"
+  },
+  "options": {
+    "draftAndPublish": true
+  },
+  "pluginOptions": {},
+  "attributes": {
+    "Hello": {
+      "type": "string"
+    }
+  }
+}
